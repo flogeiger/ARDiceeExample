@@ -44,6 +44,8 @@ override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
 <br>
 </br>
 
+![Image](https://github.com/user-attachments/assets/027a1140-4c30-4585-a4a3-a967115ba5ce)
+![Image](https://github.com/user-attachments/assets/213856b0-979c-4193-b62f-4d8cbc8799a2)
 
 # Completeness
 Although it's a simple portfolio project, I've implemented the following
